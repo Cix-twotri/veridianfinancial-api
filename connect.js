@@ -4,7 +4,7 @@ export const db = mysql.createConnection({
   host: "sql10.freesqldatabase.com",
   user: "sql10721950",
   password: "ngMCJSfNzJ",
-  database: "divinehelpfarmers",
+  database: "sql10721950",
   authPlugins: {
     mysql_native_password: 'deprecated',
   },
