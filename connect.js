@@ -1,9 +1,9 @@
 import mysql from "mysql2";
 
 export const db = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "Root",
+  host: "sql10.freesqldatabase.com",
+  user: "sql10721950",
+  password: "ngMCJSfNzJ",
   database: "divinehelpfarmers",
   authPlugins: {
     mysql_native_password: 'deprecated',
